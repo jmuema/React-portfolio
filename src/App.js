@@ -212,7 +212,7 @@ function App() {
         <div className="col-sm-4">
           <div className="team-member">
             <img className="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
-            <h4>Kay Garland</h4>
+            <h4>Me</h4>
             <p className="text-muted">Lead Designer</p>
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
@@ -236,7 +236,7 @@ function App() {
         <div className="col-sm-4">
           <div className="team-member">
             <img className="mx-auto rounded-circle" src="img/team/2.jpg" alt=""/>
-            <h4>Larry Parker</h4>
+            <h4>Myself</h4>
             <p className="text-muted">Lead Marketer</p>
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
@@ -260,7 +260,7 @@ function App() {
         <div className="col-sm-4">
           <div className="team-member">
             <img className="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
-            <h4>Diana Pertersen</h4>
+            <h4>I</h4>
             <p className="text-muted">Lead Developer</p>
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
@@ -368,7 +368,7 @@ function App() {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Your Website 2019</span>
+          <span className="copyright">Copyright &copy; Your Website 2020</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
